@@ -1,0 +1,8 @@
+2023-04-25 16:43:15.181  INFO 20504 --- [http-nio-8081-exec-1] c.n.udemy01.service.ProductServiceImp    : Getting All Products from DB
+2023-04-25 16:43:15.845  INFO 20504 --- [http-nio-8081-exec-3] c.n.udemy01.service.ProductServiceImp    : Getting All Products from DB
+2023-04-25 16:43:16.499  INFO 20504 --- [http-nio-8081-exec-4] c.n.udemy01.service.ProductServiceImp    : Getting All Products from DB
+2023-04-25 16:43:17.073  INFO 20504 --- [http-nio-8081-exec-5] c.n.udemy01.service.ProductServiceImp    : Getting All Products from DB
+2023-04-25 16:43:17.731  INFO 20504 --- [http-nio-8081-exec-6] c.n.udemy01.service.ProductServiceImp    : Getting All Products from DB
+2023-04-25 16:43:18.281  INFO 20504 --- [http-nio-8081-exec-7] c.n.udemy01.service.ProductServiceImp    : Getting All Products from DB
+2023-04-25 16:43:18.951  INFO 20504 --- [http-nio-8081-exec-8] c.n.udemy01.service.ProductServiceImp    : Getting All Products from DB
+2023-04-25 16:43:19.404  INFO 20504 --- [http-nio-8081-exec-9] c.n.udemy01.service.ProductServiceImp    : Getting All Products from DB
