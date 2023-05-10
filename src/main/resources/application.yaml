@@ -1,0 +1,10 @@
+server:
+  port: 8761
+  
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    #ne pas s'auto-register, ce n'est pas un eureka client
+    register-with-eureka: false
+    fetch-registry: false
